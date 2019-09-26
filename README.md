@@ -1,2 +1,2 @@
 # KSPcontroller
-an controle withe 2 4-axs joysticks for the game kip
+a controller 2 X 4-axs joysticks for the game ksp
